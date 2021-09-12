@@ -38,11 +38,11 @@ dark.onclick = function(){
     
     if(document.body.classList.contains("dark-theme")){
 
-        dark.src="/assets/lite.gif";
+        dark.src="./assets/lite.gif";
 
     }else{
 
-        dark.src="/assets/dark.gif";
+        dark.src="./assets/dark.gif";
 
     }
 
